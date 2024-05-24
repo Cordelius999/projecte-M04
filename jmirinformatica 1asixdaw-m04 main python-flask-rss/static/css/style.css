@@ -1,0 +1,11 @@
+body {
+    background-color: #CCCCCC;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+.navbar-nav .nav-link {
+    color: #dc3545; 
+}
